@@ -23,15 +23,15 @@
 3. 「Git: Clone」と入力して選択
 4. 以下のURLを入力：
    ```
-   https://github.com/あなたのユーザー名/リポジトリ名.git
+   https://github.com/Akane2block/git-github-practice.git
    ```
 5. 保存先フォルダを選択
 6. 「Open」でプロジェクトを開く
 
 **ターミナルでやる場合：**
 ```bash
-git clone https://github.com/あなたのユーザー名/リポジトリ名.git
-cd リポジトリ名
+git clone https://github.com/Akane2block/git-github-practice.git
+cd git-github-practice
 ```
 
 ---
